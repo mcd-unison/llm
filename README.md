@@ -25,10 +25,11 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 * [The AI Index Report](https://aiindex.stanford.edu/report/). Reporte anual de Standford en donde describen las tendencias del momento y los avances de la AI, incluyendo LLM. Sale cada año desde el 2018.
 * [The Big Bog of GenAI](https://github.com/mcd-unison/llm/blob/main/documentos/Databricks-Big-Book-Of-GenAI-FINAL.pdf). Documento de Databricks de Inteligencia Artificial Generativa. Incluye un apartado de lenguaje. Para poderlo obtener, era necesario llenar un formulario. Por eso, se sube como material dentro del repositorio.
 
-## Frameworks de evaluación<a name="evaluacion"></a>
+## Frameworks de evaluación y visualización de LLM<a name="evaluacion"></a>
 
 * [RAGAS](https://github.com/explodinggradients/ragas). Framework de evaluación open source. Sus ideas de evaluación son simples pero efectivas y creativas. Al día de hoy, 12 de mayo del 2024, cuentan con 9 métricas. Las tres originales se pueden leer en extenso en el [paper original](https://arxiv.org/abs/2309.15217) donde lo proponen.
 * [Embedding projector de Tensorflow](https://projector.tensorflow.org/). Permite realizar reducciones de dimensionalidad para identificar como se están agrupando ideas, frases, palabras, etc. Para realizarlo, se utiliza [Tensorboard](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=es-419).
+* [LDAvis](https://github.com/bmabey/pyLDAvis). Un framework para hacer topic modeling cuando se usa el algoritmo LDA. Hay que tener cuidado de cómo interpretar las gráficas que genera. Para poder entender qué significan, es necesario ir al [paper original](https://aclanthology.org/W14-3110.pdf) donde lo proponen. Está para R y Python.
 
 ## Frameworks de building and deploying<a name="buildingdeploy"></a>
 
