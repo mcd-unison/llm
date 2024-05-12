@@ -28,6 +28,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 ## Frameworks de evaluación<a name="evaluacion"></a>
 
 * [RAGAS](https://github.com/explodinggradients/ragas). Framework de evaluación open source. Sus ideas de evaluación son simples pero efectivas y creativas. Al día de hoy, 12 de mayo del 2024, cuentan con 9 métricas. Las tres originales se pueden leer en extenso en el [paper original](https://arxiv.org/abs/2309.15217) donde lo proponen.
+* [Embedding projector de Tensorflow](https://projector.tensorflow.org/). Permite realizar reducciones de dimensionalidad para identificar como se están agrupando ideas, frases, palabras, etc. Para realizarlo, se utiliza [Tensorboard](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=es-419).
 
 ## Frameworks de building and deploying<a name="buildingdeploy"></a>
 
