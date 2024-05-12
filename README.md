@@ -45,3 +45,4 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 ## Tips & Tricks<a name="tipsandtricks"></a>
 * [ASCIIFlow](https://asciiflow.com/#/). Mejora la documentación de tu código incluyendo diagramas en ASCII del flujo, como en el [siguiente ejemplo](https://twitter.com/ChristianSelig/status/1451193663657164810?t=NFO7jjhDHzDMUEAbNiCJaA&s=08).
 * [Sphinx](https://www.sphinx-doc.org/en/master/). Haz la documentación de tu proyecto de una forma bien estilera en un dos por tres con Sphinx.
+* [Markdown Cheatsheet en GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
