@@ -6,7 +6,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 
 ## Tabla de contenidos
 - [Recursos de aprendizaje](#recursos-aprendizaje)
-- [Newsletters y otros documentos para actualizarse](#newsletters)
+- [Newsletters y otros recursos para mantenerse actualizado](#newsletters)
 - [Frameworks de evaluación y visualización de LLM](#evaluación)
 - [Frameworks de building and deploying](#buildingdeploy)
 - [Monitoreo de aplicaciones LLM](#monitoreo)
@@ -20,12 +20,14 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 * [DataTalks.Club](https://datatalks.club/). Manejan cursos gratuitos de MLOps y LLMOps, además de otros recursos importantes.
 * [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/). Cursos de menos de dos horas para mantenerse actualizado.
 
-
-## Newsletters y otros documentos para actualizarse <a name="newsletters"></a>
+## Newsletters y otros recursos para mantenerse actualizado <a name="newsletters"></a>
 
 * [LLM Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week). Un pequeño newsletter en donde te puedes [suscribir](https://github.com/dair-ai/ML-Papers-of-the-Week?tab=readme-ov-file) para que te llegue a tu correo los top 5 mejores papers de la semana de LLM.
 * [The AI Index Report](https://aiindex.stanford.edu/report/). Reporte anual de Standford en donde describen las tendencias del momento y los avances de la AI, incluyendo LLM. Sale cada año desde el 2018.
 * [The Big Bog of GenAI](https://github.com/mcd-unison/llm/blob/main/documentos/Databricks-Big-Book-Of-GenAI-FINAL.pdf). Documento de Databricks de Inteligencia Artificial Generativa. Incluye un apartado de lenguaje. Para poderlo obtener, era necesario llenar un formulario. Por eso, se sube como material dentro del repositorio.
+* [Hugging Face Artificial Analysis LLM Performance Leaderboard](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard).
+* [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+* [Hugging Face Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard). En esta plataforma, LLM devs votan cuales son sus modelos favoritos al momento. El procedimiento de ranking es se lleva de una forma sistematizada y puede consultarse en su artículo de presentación, [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132).
 
 ## Frameworks de evaluación y visualización de LLM<a name="evaluacion"></a>
 
