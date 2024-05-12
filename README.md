@@ -41,7 +41,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 ## Monitoreo de aplicaciones LLM<a name="monitoreo"></a>
 
 * [Langfuse](https://langfuse.com/). Uso en navegador, pero se puede contenerizar en Docker.
-* [Langsmith](https://www.langchain.com/langsmith). Uso en navegador, pero se puede ocntenerizar en Docker. Es el sistema de monitoreo de langchaing.
+* [Langsmith](https://www.langchain.com/langsmith). Uso en navegador, pero se puede contenerizar en Docker. Es el sistema de monitoreo de langchaing.
 * [Phoenix](https://phoenix.arize.com/). No permite un tracking tan profundo de los logs de la solución LLM como langfuse o langsmith, pero si se pueden almacenar. Tiene un muy bien sistema para hacer EDA de informaciónb vectorial que utiliza el LLM, y trae integrados algunos algoritmos de reducción de la dimensionalidad.
 
 ## Tips & Tricks<a name="tipsandtricks"></a>
