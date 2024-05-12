@@ -1,6 +1,6 @@
 # Material de consulta para aprendizaje y uso de LLM 
 
-<img src="https://raw.githubusercontent.com/mcd-unison/llm/main/img/DALL%C2%B7E%202024-05-12%2015.28.49%20-%20A%20conceptual%20image%20representing%20the%20integration%20of%20language%20and%20technology.%20The%20scene%20features%20a%20modern%2C%20sleek%20workspace%20with%20a%20high-tech%20computer%20dis.webp" alt="Computadoras y lenguaje" width="700" height="auto">
+<img src="https://raw.githubusercontent.com/mcd-unison/llm/main/img/DALL%C2%B7E%202024-05-12%2015.28.49%20-%20A%20conceptual%20image%20representing%20the%20integration%20of%20language%20and%20technology.%20The%20scene%20features%20a%20modern%2C%20sleek%20workspace%20with%20a%20high-tech%20computer%20dis.webp" alt="Computadoras y lenguaje" width="400" height="auto">
 
 Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativa. Se espera poder emigrar pronto a una asociación propia, haciendo este espacio abierto no solo a la MCD o a la Universidad de Sonora, si no en forma más abierta.
 
