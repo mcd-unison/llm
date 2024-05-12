@@ -5,7 +5,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 ## Tabla de contenidos
 - [Recursos de aprendizaje](#recursos-aprendizaje)
 - [Newsletters y otros documentos para actualizarse](#newsletters)
-- [Frameworks de evaluación](#evaluación)
+- [Frameworks de evaluación y visualización de LLM](#evaluación)
 - [Frameworks de building and deploying](#buildingdeploy)
 - [Monitoreo de aplicaciones LLM](#monitoreo)
 - [Tips & Tricks](#tipsandtricks)
