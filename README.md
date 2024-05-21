@@ -19,6 +19,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 * [Overview of Large Language Models](https://aman.ai/primers/ai/LLM/).
 * [DataTalks.Club](https://datatalks.club/). Manejan cursos gratuitos de MLOps y LLMOps, además de otros recursos importantes.
 * [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/). Cursos de menos de dos horas para mantenerse actualizado.
+* [Your Guide to Generative AI Courses](https://www.deeplearning.ai/resources/generative-ai-courses-guide/?utm_campaign=sm%20content%20posts&utm_content=294002203&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783). Un learning path the DeepLearning para aprender IA Generativa por medio de sus cursos cortos.
 
 ## Newsletters y otros recursos para mantenerse actualizado <a name="newsletters"></a>
 
