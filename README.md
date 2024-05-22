@@ -54,7 +54,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 ## Frameworks utiles para desarrollo de soluciones basados en LLM <a name="dev"></a>
 * [LiteLLM](https://github.com/BerriAI/litellm). Llama a todas las APIs LLM usando el formato OpenAI. Utiliza Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (más de 100 LLM).
 * [Unstructured](https://github.com/Unstructured-IO/unstructured). Bibliotecas y API de código abierto para crear canalizaciones de preprocesamiento personalizadas para etiquetado, formación o canalizaciones de aprendizaje automático de producción. Unstructured permite trabajar con datos empresariales existen en formatos difíciles de usar como HTML, PDF, CSV, PNG, PPTX, etc. Unstructured extrae y transforma sin esfuerzo datos complejos para utilizarlos con las principales bases de datos vectoriales y modelos LLM. Aunque esta disponible open source, se puede pagar por uso de su API, y tiene integraciones con algunas nubes. Su página oficial esta disponible en el siguiente [enlace](https://unstructured.io/).
-* [DSOy](https://github.com/stanfordnlp/dspy). El marco para programar (no prompting) modelos de lenguaje fundacionales.
+* [DSPy](https://github.com/stanfordnlp/dspy). El marco para programar (no prompting) modelos de lenguaje fundacionales.
 
 ## Tips & Tricks<a name="tipsandtricks"></a>
 * [ASCIIFlow](https://asciiflow.com/#/). Mejora la documentación de tu código incluyendo diagramas en ASCII del flujo, como en el [siguiente ejemplo](https://twitter.com/ChristianSelig/status/1451193663657164810?t=NFO7jjhDHzDMUEAbNiCJaA&s=08).
