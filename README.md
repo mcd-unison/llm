@@ -10,6 +10,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 - [Frameworks de evaluación y visualización de LLM](#evaluación)
 - [Frameworks de building and deploying](#buildingdeploy)
 - [Monitoreo de aplicaciones LLM](#monitoreo)
+- [Frameworks utiles para desarrollo de soluciones basados en LLM](#dev)
 - [Tips & Tricks](#tipsandtricks)
 
 
@@ -33,7 +34,7 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 
 ## Frameworks de evaluación y visualización de LLM<a name="evaluacion"></a>
 
-* [RAGAS](https://github.com/explodinggradients/ragas). Framework de evaluación open source. Sus ideas de evaluación son simples pero efectivas y creativas. Al día de hoy, 12 de mayo del 2024, cuentan con 9 métricas. Las tres originales se pueden leer en extenso en el [paper original](https://arxiv.org/abs/2309.15217) donde lo proponen.
+* [RAGAS](https://github.com/explodinggradients/ragas). Framework de evaluación open source. Sus ideas de evaluación son simples pero efectivas y creativas. Al día de hoy, 12 de mayo del 2024, cuentan con 9 métricas. Las tres originales se pueden leer en extenso en el [paper original](https://arxiv.org/abs/2309.15217) donde lo proponen. Su página oficial se encuentra disponible en el siguiente [enlace](https://ragas.io/).
 * [LM Studio](https://lmstudio.ai/). Con LM Studio se puede ejecutar LLMs en laptops, completamente offline. Permite utilizar modelos a través de la interfaz de chat in-app o de un servidor local compatible con OpenAI. Descarga cualquier archivo de modelo compatible desde los repositorios de HuggingFace 🤗. Descubrir LLM nuevos y destacados en la página de inicio de la app.
 * [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api). Framework que permite visualizar gráficas que son incluidas en la respuesta generada de un LLM. Es una implementación LangChain del intérprete de código ChatGPT. Usando CodeBoxes como backend para la ejecución de código python sandboxed.
 * [Embedding projector de Tensorflow](https://projector.tensorflow.org/). Permite realizar reducciones de dimensionalidad para identificar como se están agrupando ideas, frases, palabras, etc. Para realizarlo, se utiliza [Tensorboard](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=es-419).
@@ -49,6 +50,11 @@ Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativ
 * [Langfuse](https://langfuse.com/). Uso en navegador, pero se puede contenerizar en Docker.
 * [Langsmith](https://www.langchain.com/langsmith). Uso en navegador, pero se puede contenerizar en Docker. Es el sistema de monitoreo de langchaing.
 * [Phoenix](https://phoenix.arize.com/). No permite un tracking tan profundo de los logs de la solución LLM como langfuse o langsmith, pero si se pueden almacenar. Tiene un muy bien sistema para hacer EDA de informaciónb vectorial que utiliza el LLM, y trae integrados algunos algoritmos de reducción de la dimensionalidad.
+
+## Frameworks utiles para desarrollo de soluciones basados en LLM <a name="dev"></a>
+* [LiteLLM](https://github.com/BerriAI/litellm). Llama a todas las APIs LLM usando el formato OpenAI. Utiliza Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (más de 100 LLM).
+* [Unstructured](https://github.com/Unstructured-IO/unstructured). Bibliotecas y API de código abierto para crear canalizaciones de preprocesamiento personalizadas para etiquetado, formación o canalizaciones de aprendizaje automático de producción. Unstructured permite trabajar con datos empresariales existen en formatos difíciles de usar como HTML, PDF, CSV, PNG, PPTX, etc. Unstructured extrae y transforma sin esfuerzo datos complejos para utilizarlos con las principales bases de datos vectoriales y modelos LLM. Aunque esta disponible open source, se puede pagar por uso de su API, y tiene integraciones con algunas nubes. Su página oficial esta disponible en el siguiente [enlace](https://unstructured.io/).
+* [DSOy](https://github.com/stanfordnlp/dspy). El marco para programar (no prompting) modelos de lenguaje fundacionales.
 
 ## Tips & Tricks<a name="tipsandtricks"></a>
 * [ASCIIFlow](https://asciiflow.com/#/). Mejora la documentación de tu código incluyendo diagramas en ASCII del flujo, como en el [siguiente ejemplo](https://twitter.com/ChristianSelig/status/1451193663657164810?t=NFO7jjhDHzDMUEAbNiCJaA&s=08).
