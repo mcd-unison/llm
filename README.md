@@ -4,6 +4,8 @@
 
 Material sobre Grandes Modelos de Lenguajes (LLM) realizado en forma colaborativa. Se espera poder emigrar pronto a una asociación propia, haciendo este espacio abierto no solo a la MCD o a la Universidad de Sonora, si no en forma más abierta.
 
+Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN) 
+
 ## Tabla de contenidos
 - [Recursos de aprendizaje](#recursos-aprendizaje)
 - [Newsletters y otros recursos para mantenerse actualizado](#newsletters)
