@@ -43,6 +43,7 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api). Framework que permite visualizar gráficas que son incluidas en la respuesta generada de un LLM. Es una implementación LangChain del intérprete de código ChatGPT. Usando CodeBoxes como backend para la ejecución de código python sandboxed.
 * [Embedding projector de Tensorflow](https://projector.tensorflow.org/). Permite realizar reducciones de dimensionalidad para identificar como se están agrupando ideas, frases, palabras, etc. Para realizarlo, se utiliza [Tensorboard](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=es-419).
 * [LDAvis](https://github.com/bmabey/pyLDAvis). Un framework para hacer gráficas de topic modeling cuando se usa el algoritmo LDA. Hay que tener cuidado de cómo interpretar las gráficas que genera. Para poder entender qué significan, es necesario ir al [paper original](https://aclanthology.org/W14-3110.pdf) donde lo proponen. Está para R y Python.
+* [Vector DB Comparison](https://superlinked.com/vector-db-comparison). Vector DB Comparison es una herramienta gratuita y de código abierto de VectorHub para comparar bases de datos vectoriales. Se ha creado para describir los conjuntos de características de diferentes soluciones de bases de datos vectoriales. Cada una de las características descritas ha sido verificada en diversos grados.
 
 ## Frameworks de building and deploying<a name="buildingdeploy"></a>
 
