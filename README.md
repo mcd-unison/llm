@@ -60,6 +60,7 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [LiteLLM](https://github.com/BerriAI/litellm). Llama a todas las APIs LLM usando el formato OpenAI. Utiliza Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (más de 100 LLM).
 * [Unstructured](https://github.com/Unstructured-IO/unstructured). Bibliotecas y API de código abierto para crear canalizaciones de preprocesamiento personalizadas para etiquetado, formación o canalizaciones de aprendizaje automático de producción. Unstructured permite trabajar con datos empresariales existen en formatos difíciles de usar como HTML, PDF, CSV, PNG, PPTX, etc. Unstructured extrae y transforma sin esfuerzo datos complejos para utilizarlos con las principales bases de datos vectoriales y modelos LLM. Aunque esta disponible open source, se puede pagar por uso de su API, y tiene integraciones con algunas nubes. Su página oficial esta disponible en el siguiente [enlace](https://unstructured.io/).
 * [DSPy](https://github.com/stanfordnlp/dspy). El marco para programar (no prompting) modelos de lenguaje fundacionales.
+* [AutoGen](https://github.com/microsoft/autogen). Un marco de programación desarrollado por Microsoft para la programación IA basada en agentes LLM.
 
 ## Tips & Tricks<a name="tipsandtricks"></a>
 * [ASCIIFlow](https://asciiflow.com/#/). Mejora la documentación de tu código incluyendo diagramas en ASCII del flujo, como en el [siguiente ejemplo](https://twitter.com/ChristianSelig/status/1451193663657164810?t=NFO7jjhDHzDMUEAbNiCJaA&s=08).
