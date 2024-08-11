@@ -24,7 +24,8 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/). Cursos de menos de dos horas para mantenerse actualizado.
 * [Your Guide to Generative AI Courses](https://www.deeplearning.ai/resources/generative-ai-courses-guide/?utm_campaign=sm%20content%20posts&utm_content=294002203&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783). Un learning path the DeepLearning para aprender IA Generativa por medio de sus cursos cortos.
 * [Transformer Puzzles](https://github.com/srush/transformer-puzzles). Rompecabezas para explorar el transformer.
-* [LLM-Training Puzzles](https://github.com/srush/LLM-Training-Puzzles). 
+* [LLM-Training Puzzles](https://github.com/srush/LLM-Training-Puzzles).
+* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/). Explicación visual del modelo transformador. Se puede ver más información de esta herramieta en 🤗 HuggingFace en el siguiente [enlace](https://huggingface.co/papers/2408.04619).
 
 ## Newsletters y otros recursos para mantenerse actualizado <a name="newsletters"></a>
 
@@ -62,6 +63,8 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [DSPy](https://github.com/stanfordnlp/dspy). El marco para programar (no prompting) modelos de lenguaje fundacionales.
 * [AutoGen](https://github.com/microsoft/autogen). Un marco de programación desarrollado por Microsoft para la programación IA basada en agentes LLM.
 * [Biblioteca de prompts de Anthropic](https://docs.anthropic.com/es/prompt-library/).
+* [Qwen2-Math](https://github.com/QwenLM/Qwen2-Math). A series of math-specific large language models of our Qwen2 series.
+
   
 ## Tips & Tricks<a name="tipsandtricks"></a>
 * [ASCIIFlow](https://asciiflow.com/#/). Mejora la documentación de tu código incluyendo diagramas en ASCII del flujo, como en el [siguiente ejemplo](https://twitter.com/ChristianSelig/status/1451193663657164810?t=NFO7jjhDHzDMUEAbNiCJaA&s=08).
