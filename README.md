@@ -36,6 +36,8 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
 * [Hugging Face Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard). En esta plataforma, LLM devs votan cuales son sus modelos favoritos al momento. El procedimiento de ranking es se lleva de una forma sistematizada y puede consultarse en su artículo de presentación, [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132).
 * [An Explorable BERT](https://huggingface.co/spaces/exbert-project/exbert).
+* [The Definitive Guide to Testing LLM Applications by LangChain](https://github.com/mcd-unison/llm/blob/main/documentos/Definitive%20Guide%20to%20Testing%20LLM%20Applications.pdf).
+* [The Prompt Report: A Systematic Survey of Prompting Techniques](https://github.com/mcd-unison/llm/blob/main/documentos/2406.06608v3.pdf).
 
 ## Frameworks de evaluación y visualización de LLM<a name="evaluacion"></a>
 
