@@ -49,6 +49,9 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [Embedding projector de Tensorflow](https://projector.tensorflow.org/). Permite realizar reducciones de dimensionalidad para identificar como se están agrupando ideas, frases, palabras, etc. Para realizarlo, se utiliza [Tensorboard](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=es-419).
 * [LDAvis](https://github.com/bmabey/pyLDAvis). Un framework para hacer gráficas de topic modeling cuando se usa el algoritmo LDA. Hay que tener cuidado de cómo interpretar las gráficas que genera. Para poder entender qué significan, es necesario ir al [paper original](https://aclanthology.org/W14-3110.pdf) donde lo proponen. Está para R y Python.
 * [Vector DB Comparison](https://superlinked.com/vector-db-comparison). Vector DB Comparison es una herramienta gratuita y de código abierto de VectorHub para comparar bases de datos vectoriales. Se ha creado para describir los conjuntos de características de diferentes soluciones de bases de datos vectoriales. Cada una de las características descritas ha sido verificada en diversos grados.
+* [Tonic Validate](https://github.com/TonicAI/tonic_validate). Tonic Validate is a framework for the evaluation of LLM outputs, such as Retrieval Augmented Generation (RAG) pipelines.
+* [Deepeval](https://github.com/confident-ai/deepeval). DeepEval is a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems. It is similar to Pytest but specialized for unit testing LLM outputs.
+* [ARES](https://github.com/stanford-futuredata/ARES). ARES is a groundbreaking framework for evaluating Retrieval-Augmented Generation (RAG) models. 
 
 ## Frameworks de building and deploying<a name="buildingdeploy"></a>
 
