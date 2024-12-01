@@ -68,6 +68,8 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [AutoGen](https://github.com/microsoft/autogen). Un marco de programación desarrollado por Microsoft para la programación IA basada en agentes LLM.
 * [Biblioteca de prompts de Anthropic](https://docs.anthropic.com/es/prompt-library/).
 * [Qwen2-Math](https://github.com/QwenLM/Qwen2-Math). A series of math-specific large language models of our Qwen2 series.
+* [Promptwright - Synthetic Dataset Generation Library](https://github.com/StacklokLabs/promptwright?tab=readme-ov-file). Promptwright is a Python library from Stacklok designed for generating large synthetic datasets using a local LLM and most LLM service providers (openAI, Anthropic, OpenRouter etc). The library offers a flexible and easy-to-use set of interfaces, enabling users the ability to generate prompt led synthetic datasets.
+* [Presidio: Data Protection and De-identification SDK](https://microsoft.github.io/presidio/). Presidio (Origin from Latin praesidium ‘protection, garrison’) helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization modules for private entities in text and images such as credit card numbers, names, locations, social security numbers, bitcoin wallets, US phone numbers, financial data and more.
 
   
 ## Tips & Tricks<a name="tipsandtricks"></a>
