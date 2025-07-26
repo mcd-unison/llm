@@ -28,6 +28,7 @@ Nombre tentativo: Sociedad de Inteligencia Artificial del Noroeste (SIAN)
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/). Explicación visual del modelo transformador. Se puede ver más información de esta herramieta en 🤗 HuggingFace en el siguiente [enlace](https://huggingface.co/papers/2408.04619).
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/).
 * [Sequence to Sequence (seq2seq) and Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#main_content).
+* [LLM Visualizer](https://bbycroft.net/llm).
 
 ## Newsletters y otros recursos para mantenerse actualizado <a name="newsletters"></a>
 
